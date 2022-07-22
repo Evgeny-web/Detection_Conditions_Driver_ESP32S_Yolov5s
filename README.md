@@ -1,0 +1,2 @@
+# Custom_Detection_awake_drowsy_sleep_with_Yolov5s_ESP32S
+ detection awake drowsy sleep
